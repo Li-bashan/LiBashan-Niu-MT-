@@ -1,0 +1,21 @@
+{
+  "name": "niu-mt-windows-widget",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "main": "electron-main.cjs",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "desktop": "electron ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.0.0",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "electron": "^37.0.0"
+  }
+}

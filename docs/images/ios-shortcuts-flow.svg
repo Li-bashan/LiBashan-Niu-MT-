@@ -1,0 +1,44 @@
+<svg width="1080" height="520" viewBox="0 0 1080 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="520" rx="28" fill="#f6f8fb"/>
+  <rect x="36" y="36" width="1008" height="448" rx="24" fill="white" stroke="#d8dee8"/>
+  <text x="72" y="96" fill="#1f2328" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="34" font-weight="800">iOS 快捷指令自动上报流程</text>
+  <text x="72" y="132" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="17">不要把真实 token 放进 README 或截图，仓库内只保留 YOUR_WRITE_TOKEN 占位符。</text>
+
+  <g transform="translate(72 178)">
+    <rect width="218" height="168" rx="18" fill="#fff7ed" stroke="#fed7aa"/>
+    <circle cx="36" cy="36" r="18" fill="#fb923c"/>
+    <text x="68" y="43" fill="#1f2328" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="20" font-weight="800">自动化触发</text>
+    <text x="24" y="88" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="18">14:00 每天</text>
+    <text x="24" y="119" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="18">21:15 每天</text>
+    <text x="24" y="150" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="18">打开微信时</text>
+  </g>
+
+  <path d="M315 262H390" stroke="#c4ccd8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M374 245L391 262L374 279" stroke="#c4ccd8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(414 178)">
+    <rect width="238" height="168" rx="18" fill="#fff1f2" stroke="#fecdd3"/>
+    <rect x="24" y="20" width="36" height="36" rx="10" fill="#e11d48"/>
+    <text x="76" y="44" fill="#1f2328" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="20" font-weight="800">小牛快捷任务</text>
+    <text x="24" y="92" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="18">查询车辆电量</text>
+    <text x="24" y="124" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="18">查询车辆位置</text>
+    <text x="24" y="154" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="15">输出 textResponse</text>
+  </g>
+
+  <path d="M680 262H755" stroke="#c4ccd8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M739 245L756 262L739 279" stroke="#c4ccd8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(780 178)">
+    <rect width="228" height="168" rx="18" fill="#ecfeff" stroke="#a5f3fc"/>
+    <circle cx="42" cy="38" r="19" fill="#22c55e"/>
+    <text x="76" y="44" fill="#1f2328" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="20" font-weight="800">获取 URL 内容</text>
+    <text x="24" y="88" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="17">POST /niu</text>
+    <text x="24" y="119" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="17">JSON 字典</text>
+    <text x="24" y="150" fill="#59636e" font-family="Microsoft YaHei UI, Segoe UI, Arial" font-size="17">token=YOUR_WRITE_TOKEN</text>
+  </g>
+
+  <g transform="translate(201 390)">
+    <rect width="678" height="54" rx="14" fill="#f6f8fa" stroke="#d8dee8"/>
+    <text x="26" y="35" fill="#1f2328" font-family="Consolas, Cascadia Mono, monospace" font-size="18">https://your-domain.example/niu?token=YOUR_WRITE_TOKEN</text>
+  </g>
+</svg>

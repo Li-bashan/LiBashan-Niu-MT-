@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+*.log
+*.zip
+*.7z
+*.rar
+*.exe
+state.json
+Thumbs.db
+.DS_Store
